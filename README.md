@@ -22,7 +22,4 @@ Make sure you have Jupyter and the required packages installed:
 pip install notebook pandas matplotlib seaborn scikit-learn
 jupyter notebook
 
-👩‍💻 Author
-Jagadishwari
-Master's Student in Applied Analytics
-Saint Louis University
+
