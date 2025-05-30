@@ -16,7 +16,7 @@ This repository contains a Jupyter Notebook focused on predictive modeling using
 
 ## 📽️ Presentation Slides
 
-You can view the final project presentation here:  
+You can view the project presentation here:  
 👉 [View Slides](Project-Presentation.pptx.pdf)
 
 ## ▶️ How to Run
