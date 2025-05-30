@@ -23,3 +23,8 @@ pip install notebook pandas matplotlib seaborn scikit-learn
 jupyter notebook
 
 
+👉 [View Slides](Project-Presentation.pptx.pdf)
+
+
+
+
