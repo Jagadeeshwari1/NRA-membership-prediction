@@ -14,6 +14,11 @@ This repository contains a Jupyter Notebook focused on predictive modeling using
 - Performance metrics: Accuracy, Precision, Recall, F1-score
 - Data visualizations using `matplotlib` and `seaborn`
 
+## 📽️ Presentation Slides
+
+You can view the final project presentation here:  
+👉 [View Slides](Project-Presentation.pptx.pdf)
+
 ## ▶️ How to Run
 
 Make sure you have Jupyter and the required packages installed:
@@ -23,7 +28,7 @@ pip install notebook pandas matplotlib seaborn scikit-learn
 jupyter notebook
 
 
-👉 [View Slides](Project-Presentation.pptx.pdf)
+
 
 
 
